@@ -20,7 +20,7 @@ End the program
 ## PROGRAM:
 # program to swap two values:
 # developed by:neethiventhan
-# regeister numbetr:23006643
+# regeister number:23006643
 ~~~
 n=str(input())
 y=str(input())
